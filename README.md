@@ -5,9 +5,9 @@
 - 📫 How to reach me on johnsalako3@gmail.com.
 
 # Current project:
-https://midterm-project-tetuan.herokuapp.com/
+[Exploring the Tetouan Power Consumption Dataset](https://thegospeler-webapps-powerds-ml-m24fel.streamlit.app/)
 
-I am currently building a web application using the Tetuan Power Consumption Dataset obtained from the UCI repository. 
+I am currently building a web application using the Tetouan Power Consumption Dataset obtained from the UCI repository. 
 The application enables the user to fully explore the Dataset by visualizing the relationship between the features (weather parameters with the resulting power consumption in three city zones) in the dataset using two-dimensional interactions with multiselection options and multidimensional interactions using Altair plots and HiPlots, respectively.
 
 This is the initial stage of the project!
