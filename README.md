@@ -7,7 +7,8 @@
 # Current project:
 [Web Application for Running Machine Learning Algorithms](https://thegospeler-powermlweb-powerml-g0or2v.streamlit.app/)
 
-Previous Project
+### Previous Project:
+
 [Exploring the Tetouan Power Consumption Dataset!](https://thegospeler-webapps-powerds-ml-m24fel.streamlit.app/)
 
 I am currently building a web application using the Tetouan Power Consumption Dataset obtained from the UCI repository. 
