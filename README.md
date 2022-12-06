@@ -5,7 +5,7 @@
 - 📫 How to reach me on johnsalako3@gmail.com.
 
 # Current project:
-[Web Application for Running Machine Learning Algorithms](https://thegospeler-powerdsmlwebapp-powerml-yry4t9.streamlit.app/)
+[Web Application for Running Machine Learning Algorithms](https://thegospeler-powermlweb-powerml-g0or2v.streamlit.app/)
 
 Previous Project
 [Exploring the Tetouan Power Consumption Dataset!](https://thegospeler-webapps-powerds-ml-m24fel.streamlit.app/)
