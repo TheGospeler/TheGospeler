@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing and collaborating on state-of-the-art tools that are applicable in solving bespoke and general computational problems
 - 🌱 I’m currently learning Various computational modeling techniques and building computational prowess at MSU
 - 💞️ I’m looking to collaborate on products that involve Machine Learning, Graph Algorithms, etc.
-- 📫 How to reach me on johnsalako3@gmail.com.
+- 📫 You can reach me on johnsalako3@gmail.com.
 
 # Current project:
 [Web Application for Running Machine Learning Algorithms](https://thegospeler-powermlweb-powerml-g0or2v.streamlit.app/)
