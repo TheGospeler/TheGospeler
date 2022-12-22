@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheGospeler
-- 👀 I’m interested in developing and collaborating on state-of-the-art tools that are applicable in solving bespoke and general computational problems
+- 👀 I’m interested in developing and collaborating on state-of-the-art tools that are applicable in solving present day computational problems.
 - 🌱 I’m currently learning Various computational modeling techniques and building computational prowess at MSU
-- 💞️ I’m looking to collaborate on products that involve Machine Learning, Graph Algorithms, etc.
+- 💞️ I’m looking to collaborate on products that involve Automation, Machine Learning, Graph Algorithms, etc.
 - 📫 You can reach me on johnsalako3@gmail.com.
 
 # Current project:
