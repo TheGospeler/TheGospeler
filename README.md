@@ -6,7 +6,7 @@
 
 ---
 
-## Check out these Repositories (Contains slides, codes and data):
+## Check out these Repositories (Contain slides, codes and data):
 #### Dimensionality Reduction and Prediction Accuracy
 Discover how I reduced the dimension of a dataset from 71 columns to 16 columns using basic EDA to a more robust statistical analysis using the Lasso regression Model. This led to an average accuracy of 92% using 11-fold cross-validation.
 
