@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on products that involve Automation, Machine Learning, Remote Sensing, and the overall usage of the Artificial Intelligence processes
 - 📫 You can reach me at johnsalako3@gmail.com or LinkedIn (Check Bio.)
 
+---
+
 ## Check out these Repositories (Contains slides, codes and data):
 #### Dimensionality Reduction and Prediction Accuracy
 Discover how I reduced the dimension of a dataset from 71 columns to 16 columns using basic EDA to a more robust statistical analysis using the Lasso regression Model. This led to an average accuracy of 92% using 11-fold cross-validation.
