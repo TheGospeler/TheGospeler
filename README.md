@@ -15,14 +15,16 @@ Discover how I reduced the dimension of a dataset from 71 columns to 16 columns 
 ---
 
 ### Data Science Web Application (Check WebApps)
-Discover how I created a web application that allows you to perform several Exploratory Data Analyses (EDA) on the Tetuoan Power Consumption Data using interactive plots and other great visualization plots in Python, such as Altair, HiPlot, and Joint Plot.
+Discover how I created a web application that allows you to perform several Exploratory Data Analyses (EDA) on the Tetuoan Power Consumption Data using interactive plots and other great visualization plots in Python, such as Altair, HiPlot, and Joint Plot.  
+[Data Science Application!](https://thegospeler-webapps-powerds-ml-m24fel.streamlit.app/)
 
 ![image](https://github.com/TheGospeler/TheGospeler/assets/97548163/d3151992-f0e4-453d-8a0a-da301415cfcf)
 
 ---
 
 ### Machine Learning Web Application (Check PowerMLWeb)
-Discover how I combined four regressional algorithms in creating this machine-learning web application with a stunning interface and interactive GUI that allows a user to perform hyperparameter tuning and feature selection. Also, an introduction to the One-Step-Ahead method is presented, and the power consumption data is forecasted in the `Label Prediction from label` tab.
+Discover how I combined four regressional algorithms in creating this machine-learning web application with a stunning interface and interactive GUI that allows a user to perform hyperparameter tuning and feature selection. Also, an introduction to the One-Step-Ahead method is presented, and the power consumption data is forecasted in the `Label Prediction from label` tab.  
+[Machine Learning Application!](https://thegospeler-powermlweb-powerml-g0or2v.streamlit.app/)
 
 ![image](https://github.com/TheGospeler/TheGospeler/assets/97548163/fa24471d-80fa-4d68-94a7-e04d40a27e44)
 
